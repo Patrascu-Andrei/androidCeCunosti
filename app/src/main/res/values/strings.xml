@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ce Cunosti ?</string>
+    <string name="time">Timp</string>
+    <string name="player_a_name">Jucator 1</string>
+    <string name="player_b_name">Jucator 2</string>
+    <string name="player_score">Scor</string>
+    <string name="intrebare_jucator">Intrebare pentru</string>
+    <string name="litera">Introdu o litera:</string>
+    <string name="cumpara_vocale">Cumpara \nVocale:</string>
+    <string name="intrebare_solutie">Ai aflat solutia?</string>
+    <string name="hint_tasteaza">Tasteaza aici solutia</string>
+</resources>

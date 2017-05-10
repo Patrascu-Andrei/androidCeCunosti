@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Cum va numiti?" />
+
+    <EditText
+        android:id="@+id/nume_jucator1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nume Jucator 1"/>
+    <EditText
+        android:id="@+id/nume_jucator2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nume Jucator 2"/>
+    <Button
+        android:id="@+id/mButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>

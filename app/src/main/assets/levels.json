@@ -1,0 +1,18 @@
+{
+	"name" : "CeCunosti",
+	"no_levels" : 3,
+	"levels" : [{
+		"id" : 1,
+		"question" : "Ce tara are capitala la Cairo?",
+		"solution" : "EGIPT"
+	}, {
+		"id" : 2,
+		"question" : "Ce firma produce modelele de masini Civic si Accord?",
+		"solution": "HONDA"
+	}, {
+		"id" : 3,
+		"question" : "In ce tara a avut loc campionatul mondial de fotbal din 1930?",
+		"solution" : "URUGUAY"
+	}
+	]
+}
